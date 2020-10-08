@@ -1051,7 +1051,7 @@ reference = "tsinghua"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "4650de0993adabbe832c6091bf0d5ac6f02785cb971a5440e8e6b5f5f4f54803"
+content-hash = "b9668e5079a17762eb9796503377fc7c285f51bafb56861ff7c0890b19a87681"
 
 [metadata.files]
 appnope = [
